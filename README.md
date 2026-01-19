@@ -1,0 +1,3 @@
+Este projeto simula o núcleo de um sistema bancário moderno, focado na aplicação rigorosa de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento de software.
+
+O objetivo principal foi criar uma aplicação onde a integridade dos dados e a segurança das transações fossem prioridades, utilizando conceitos como encapsulamento, tratamento de exceções customizadas e testes automatizados.
